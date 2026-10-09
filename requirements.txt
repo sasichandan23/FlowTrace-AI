@@ -1,0 +1,8 @@
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+plotly>=5.20
+networkx>=3.2
+shap>=0.45
+joblib>=1.3
